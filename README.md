@@ -30,3 +30,18 @@ Specialization focused the following skills, you will be ready to:
 • Build a human-in-the-loop pipeline to improve model performance
 
 • Reduce cost and improve performance of data products
+
+# Analyze Datasets and Train ML Models using AutoML
+• Prepare data, detect statistical data biases, and perform feature engineering at scale to train models with pre-built algorithms.
+
+# Build, Train, and Deploy ML Pipelines using BERT
+• Store and manage machine learning features using a feature store
+• Debug, profile, tune and evaluate models while tracking data lineage and model artifacts
+
+# Optimize ML Models and Deploy Human-in-the-Loop Pipelines
+• Human-in-the-Loop Pipelines
+• Distributed Model Training and Hyperparameter Tuning
+• Cost Savings and Performance Improvements
+• A/B Testing and Model Deployment
+• Data Labeling at Scale
+
